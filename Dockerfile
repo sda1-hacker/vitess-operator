@@ -1,1 +1,1 @@
-FROM planetscale/vitess-operator:v2.7.3
+FROM planetscale/vitess-operator:v2.6.0
